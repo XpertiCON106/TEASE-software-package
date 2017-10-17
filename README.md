@@ -1,4 +1,4 @@
-# TEASE-software-package
+# TEASE-software-and-hardware-integration
 Thermo-Electric Atmospheric Sustainable Energy (TEASE) Ballon payload project
 
 The purpose of this project is to design, manufacture, test, launch, & evaluate scientific data collection & engineering demonstration payloads flown on weather balloons up to 100,000 ft.In addition, be able to plan, implement, and perform payload recovery procedures.

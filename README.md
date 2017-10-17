@@ -14,15 +14,30 @@ If you intend on doing this project by yourself, you must need couple of things 
 
 2: Temperature Sensor <https://www.adafruit.com/product/381>
 
-3: A Camera
+3: A Camera (for taking some good space pics)
 
-4: Handwarmers..
+4: Handwarmers (for keeping the internal temp near boiling point)
 
-5: 15 kpi Sheet Aluminum
+5: Aluminum sheets
 
 6: Joule Thief <http://www.ebay.com/itm/like/272420105646?chn=ps&dispItem=1>
 
-In addition, you need an arduino, jumper cables, a battery
+The joule thief is really for powering an LED with the peltier module. It acts as a bridge. 
+
+7: Arduino 
+
+8: Jumper cables
+
+9: starter shield (which I don't know the name of)
+
+10: SD card module (which I don't know the name of)
+
+11: Clock (which I don't know the name of)
+
+12: Cardboard
+
+13: Engineering tools
+
 
 <-----------------PROJECT IS UNDER WAY ------------------>
 <-----------------MORE INFO COMING SOON ----------------->

@@ -11,10 +11,15 @@ This repository contains the files/libraries and other components that are neede
 If you intend on doing this project by yourself, you must need couple of things first
 
 1: Peltier Module <https://www.adafruit.com/product/1331>
+
 2: Temperature Sensor <https://www.adafruit.com/product/381>
+
 3: A Camera
+
 4: Handwarmers..
+
 5: 15 kpi Sheet Aluminum
+
 6: Joule Thief <http://www.ebay.com/itm/like/272420105646?chn=ps&dispItem=1>
 
 In addition, you need an arduino, jumper cables, a battery

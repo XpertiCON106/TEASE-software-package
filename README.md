@@ -5,6 +5,4 @@ The purpose of this project is to design, manufacture, test, launch, & evaluate 
 
 In addition, there must be a system that conducts electricity using a Peltier module – the temperature difference at 100K ft. creates a heat flux between the junctions of two different materials leading to electricity. 
 
-This repository contains the files/libraries and other components that are needed to run the software end of the project. 
-
-This repository includes the code that is required for data collection. The software collects inside temperature, outside temperature,  and voltage difference and transfers them to an SD card. Please contact tahalil106@gmail.com for more information regarding the assembly of the part.
+This repository includes the code that is required for data collection for this project. The software collects inside temperature, outside temperature,  and voltage difference and transfers them to an SD card. Please contact tahalil106@gmail.com for more information regarding the assembly of the part.

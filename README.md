@@ -7,4 +7,4 @@ In addition, there must be a system that conducts electricity using a Peltier mo
 
 This repository includes the code that is required for data collection for this project. The software collects inside temperature, outside temperature,  and voltage difference and transfers them to an SD card. Please contact tahalil106@gmail.com for more information regarding the assembly of the part.
 
-
+Please refer to the "BPP - TEASE Data" for project result.

@@ -1,4 +1,4 @@
-<img src="assets/cover.svg" width="100%" alt="Project TEASE: Thermo-Electric Atmospheric Sustainable Energy. A weather balloon payload by Tahalil Morsilin, Balloon Payload Project, 2017.">
+<img src="assets/cover.svg" width="100%" alt="TEASE: Thermo-Electric Atmospheric Sustainable Energy. A weather balloon payload by Tahalil Morsilin, Balloon Payload Project, 2017.">
 
 <br>
 
